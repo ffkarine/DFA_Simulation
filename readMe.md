@@ -1,5 +1,7 @@
 Curso de Engenharia de Computação - Universidade Tecnológica Federal do Paraná (UTFPR) - Câmpus Toledo
+
 Disciplina de Teoria da Computação
+
 2018.2
 
 Karine Faggian Franciscon &
