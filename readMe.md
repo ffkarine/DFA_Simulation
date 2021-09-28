@@ -1,12 +1,8 @@
-Curso de Engenharia de Computação - Universidade Tecnológica Federal do Paraná (UTFPR) - Câmpus Toledo
-
-Disciplina de Teoria da Computação
-
-2018.2
-
+Curso de Engenharia de Computação - Universidade Tecnológica Federal do Paraná (UTFPR) - Câmpus Toledo <br>
+Disciplina de Teoria da Computação <br>
+2018.2 <br>
 Karine Faggian Franciscon &
-Gustavo Alexsandro de Lima
-
+Gustavo Alexsandro de Lima <br>
 Atividade Prática Supervisionada/Complemento de Carga Horária (APS/CCH)
 
 # Simulador de Autômatos Finitos Determinísticos
