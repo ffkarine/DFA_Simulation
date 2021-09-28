@@ -11,14 +11,14 @@ Atividade Prática Supervisionada/Complemento de Carga Horária (APS/CCH)
 
 # Simulador de Autômatos Finitos Determinísticos
 
-** Instruções: **
+**Instruções:**
 
 A entrada deve se dar por um arquivo de texto chamado “entrada.txt” que deve ser colocado na mesma pasta que o executável.
 A saída se dará também por um arquivo de texto, chamado “saida.txt”, a respectiva palavra de teste da entrada:
 </br> "ACEITA" indica que a palavra é válida para o AFD.
 </br> "REJEITA" indica que a palavra não é válida para o AFD.
 
-** O arquivo de entrada deve estar organizado da seguinte forma: **
+**O arquivo de entrada deve estar organizado da seguinte forma:**
 
 • Linha 1: Número de estados para o conjunto Q.
 
